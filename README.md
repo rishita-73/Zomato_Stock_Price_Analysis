@@ -122,7 +122,7 @@ zomato-stock-analysis/
 │   └── zomato.csv
 │
 ├── notebooks/
-│   ├── eda.ipynb
+│   ├──zomato_stock_price_analysis.ipynb
 │  
 ├── sql/
 │   ├── zomato_stock_price_analysis.sql
